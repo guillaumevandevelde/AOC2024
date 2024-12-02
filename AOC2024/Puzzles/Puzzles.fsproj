@@ -12,6 +12,7 @@
         <Content Include="Day 1\2\Assignment.md" />
         <Content Include="Day 1\2\input" />
         <None Include="Day 1\2\2.fsx" />
+        <Folder Include="Day 2\" />
     </ItemGroup>
 
 </Project>
