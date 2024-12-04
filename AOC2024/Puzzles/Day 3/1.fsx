@@ -1,4 +1,4 @@
-﻿let filePath = __SOURCE_DIRECTORY__ + @"/input"
+﻿let filePath = __SOURCE_DIRECTORY__ + @"/input1"
 
 let corruptedMem = System.IO.File.ReadAllText(filePath)
 
